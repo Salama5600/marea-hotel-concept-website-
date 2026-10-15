@@ -1,0 +1,7 @@
+{
+  "name": "Marea Boutique Hotel",
+  "description": "A small boutique hotel on the Mediterranean in Alexandria. Preview each room at sunrise, sunset and night, then book your stay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
